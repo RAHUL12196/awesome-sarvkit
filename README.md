@@ -25,7 +25,7 @@
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards | 10 tools + 20 guides |
 | 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 8 tools + 8 guides |
 | 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, favicons | 9 tools + 20 guides |
-| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / converter | 28 tools + 21 articles |
+| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / converter / subnet calculator | 29 tools + 21 articles |
 | ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, sort, dedupe | 8 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
 
@@ -181,9 +181,9 @@ Popular calculators:
 
 ## `</>` DevKit — Developer & Converter Tools
 
-**Suite home:** **<https://sarvkit.com/DevKit/>** · 28 tools + 21 articles
+**Suite home:** **<https://sarvkit.com/DevKit/>** · 29 tools + 21 articles
 
-[JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/)
+[JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/)
 
 ---
 
