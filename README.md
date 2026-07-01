@@ -2,7 +2,7 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **165+ online tools and 230+ in-depth guides (400+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **197 online tools and 240+ in-depth guides (437+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -16,17 +16,17 @@
 | Suite | What it does | Volume |
 |---|---|---|
 | 🧮 **[CalcWise](https://sarvkit.com/CalcWise/)** | Financial calculators for India, US & UK — SIP, EMI, tax, loans, investments, retirement | 36 calculators + 23 guides |
-| 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 9 calculators + 20 guides |
+| 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators + 20 guides |
 | 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 9 guides** |
 | ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 10 guides** |
-| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs | 8 tools + 20 guides |
-| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 10 tools + 20 guides |
+| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs | 11 tools + 20 guides |
+| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 20 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
-| 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards | 10 tools + 20 guides |
-| 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 8 tools + 8 guides |
-| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, favicons | 9 tools + 20 guides |
-| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / converter / subnet calculator | 29 tools + 21 articles |
-| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, sort, dedupe | 8 tools + 20 guides |
+| 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards | 9 tools + 20 guides |
+| 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 20 guides |
+| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns | 21 tools + 20 guides |
+| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator | 34 tools + 21 articles |
+| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, bionic reading, handwriting | 9 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
 
 ---
@@ -125,7 +125,7 @@ Popular calculators:
 
 ## 💪 FitCalc — Health & Fitness Calculators
 
-**Suite home:** **<https://sarvkit.com/FitCalc/>** · 9 calculators + 20 guides
+**Suite home:** **<https://sarvkit.com/FitCalc/>** · 11 calculators + 20 guides
 
 [Calorie Calculator](https://sarvkit.com/FitCalc/calorie-calculator/) · [Macro Calculator](https://sarvkit.com/FitCalc/macro-calculator/) · [Body Fat Calculator](https://sarvkit.com/FitCalc/body-fat-calculator/) · [BMR Calculator](https://sarvkit.com/FitCalc/bmr-calculator/) · [Heart Rate Zones](https://sarvkit.com/FitCalc/heart-rate-calculator/) · [Water Intake](https://sarvkit.com/FitCalc/water-intake-calculator/)
 
@@ -133,7 +133,7 @@ Popular calculators:
 
 ## 📄 PDFTools — Free PDF Utilities
 
-**Suite home:** **<https://sarvkit.com/PDFTools/>** · 8 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/PDFTools/>** · 11 tools + 20 guides
 
 [Merge PDF](https://sarvkit.com/PDFTools/merge-pdf/) · [Split PDF](https://sarvkit.com/PDFTools/split-pdf/) · [Compress PDF](https://sarvkit.com/PDFTools/compress-pdf/) · [Rotate PDF](https://sarvkit.com/PDFTools/rotate-pdf/) · [Watermark PDF](https://sarvkit.com/PDFTools/watermark-pdf/) · [PDF to Image](https://sarvkit.com/PDFTools/pdf-to-image/) · [Image to PDF](https://sarvkit.com/PDFTools/image-to-pdf/)
 
@@ -141,9 +141,9 @@ Popular calculators:
 
 ## 💼 BizKit — Small-Business Tools
 
-**Suite home:** **<https://sarvkit.com/BizKit/>** · 10 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/BizKit/>** · 11 tools + 20 guides
 
-[Invoice Generator](https://sarvkit.com/BizKit/invoice-generator/) · [Receipt Maker](https://sarvkit.com/BizKit/receipt-maker/) · [ROI Calculator](https://sarvkit.com/BizKit/roi-calculator/) · [Profit Margin](https://sarvkit.com/BizKit/profit-margin-calculator/) · [Break-Even](https://sarvkit.com/BizKit/break-even-calculator/) · [Discount Calculator](https://sarvkit.com/BizKit/discount-calculator/) · [Sales Tax](https://sarvkit.com/BizKit/sales-tax-calculator/) · [Hourly Rate](https://sarvkit.com/BizKit/hourly-rate-calculator/) · [Business Name Generator](https://sarvkit.com/BizKit/business-name-generator/) · [Startup Cost Estimator](https://sarvkit.com/BizKit/startup-cost-estimator/)
+[Invoice Generator](https://sarvkit.com/BizKit/invoice-generator/) · [Invoice to Excel](https://sarvkit.com/BizKit/invoice-to-excel/) · [Receipt Maker](https://sarvkit.com/BizKit/receipt-maker/) · [ROI Calculator](https://sarvkit.com/BizKit/roi-calculator/) · [Profit Margin](https://sarvkit.com/BizKit/profit-margin-calculator/) · [Break-Even](https://sarvkit.com/BizKit/break-even-calculator/) · [Discount Calculator](https://sarvkit.com/BizKit/discount-calculator/) · [Sales Tax](https://sarvkit.com/BizKit/sales-tax-calculator/) · [Hourly Rate](https://sarvkit.com/BizKit/hourly-rate-calculator/) · [Business Name Generator](https://sarvkit.com/BizKit/business-name-generator/) · [Startup Cost Estimator](https://sarvkit.com/BizKit/startup-cost-estimator/)
 
 ---
 
@@ -157,7 +157,7 @@ Popular calculators:
 
 ## 🎓 StudentKit — Student Tools
 
-**Suite home:** **<https://sarvkit.com/StudentKit/>** · 10 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/StudentKit/>** · 9 tools + 20 guides
 
 [GPA Calculator](https://sarvkit.com/StudentKit/gpa-calculator/) · [Citation Generator](https://sarvkit.com/StudentKit/citation-generator/) · [Pomodoro Timer](https://sarvkit.com/StudentKit/pomodoro-timer/)
 
@@ -165,7 +165,7 @@ Popular calculators:
 
 ## 🔍 SEOKit — SEO Tools
 
-**Suite home:** **<https://sarvkit.com/SEOKit/>** · 8 tools + 8 guides
+**Suite home:** **<https://sarvkit.com/SEOKit/>** · 9 tools + 20 guides
 
 [Meta Tag Generator](https://sarvkit.com/SEOKit/meta-tag-generator/) · [Open Graph Preview](https://sarvkit.com/SEOKit/og-preview/) · [Schema Generator](https://sarvkit.com/SEOKit/schema-generator/)
 
@@ -173,25 +173,25 @@ Popular calculators:
 
 ## 🎨 DesignKit — Design Tools
 
-**Suite home:** **<https://sarvkit.com/DesignKit/>** · 9 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/DesignKit/>** · 21 tools + 20 guides
 
-[Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/)
+[Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
 
 ---
 
 ## `</>` DevKit — Developer & Converter Tools
 
-**Suite home:** **<https://sarvkit.com/DevKit/>** · 29 tools + 21 articles
+**Suite home:** **<https://sarvkit.com/DevKit/>** · 34 tools + 21 articles
 
-[JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/)
+[JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
 
 ---
 
 ## ✏️ TextKit — Text & Writing Tools
 
-**Suite home:** **<https://sarvkit.com/TextKit/>** · 8 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/TextKit/>** · 9 tools + 20 guides
 
-[Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/)
+[Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
 
 ---
 
