@@ -2,7 +2,7 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **197 online tools and 240+ in-depth guides (437+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **203 online tools and 240+ in-depth guides (443+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -19,14 +19,14 @@
 | 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators + 20 guides |
 | 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 9 guides** |
 | ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 10 guides** |
-| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs | 11 tools + 20 guides |
+| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs, remove password | 12 tools + 20 guides |
 | 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 20 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
-| 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards | 9 tools + 20 guides |
+| 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
 | 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 20 guides |
-| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns | 21 tools + 20 guides |
+| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 23 tools + 20 guides |
 | `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator | 34 tools + 21 articles |
-| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, bionic reading, handwriting | 9 tools + 20 guides |
+| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 16 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
 
 ---
@@ -133,7 +133,7 @@ Popular calculators:
 
 ## 📄 PDFTools — Free PDF Utilities
 
-**Suite home:** **<https://sarvkit.com/PDFTools/>** · 11 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/PDFTools/>** · 12 tools + 20 guides
 
 [Merge PDF](https://sarvkit.com/PDFTools/merge-pdf/) · [Split PDF](https://sarvkit.com/PDFTools/split-pdf/) · [Compress PDF](https://sarvkit.com/PDFTools/compress-pdf/) · [Rotate PDF](https://sarvkit.com/PDFTools/rotate-pdf/) · [Watermark PDF](https://sarvkit.com/PDFTools/watermark-pdf/) · [PDF to Image](https://sarvkit.com/PDFTools/pdf-to-image/) · [Image to PDF](https://sarvkit.com/PDFTools/image-to-pdf/)
 
@@ -157,7 +157,7 @@ Popular calculators:
 
 ## 🎓 StudentKit — Student Tools
 
-**Suite home:** **<https://sarvkit.com/StudentKit/>** · 9 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/StudentKit/>** · 10 tools + 20 guides
 
 [GPA Calculator](https://sarvkit.com/StudentKit/gpa-calculator/) · [Citation Generator](https://sarvkit.com/StudentKit/citation-generator/) · [Pomodoro Timer](https://sarvkit.com/StudentKit/pomodoro-timer/)
 
@@ -173,7 +173,7 @@ Popular calculators:
 
 ## 🎨 DesignKit — Design Tools
 
-**Suite home:** **<https://sarvkit.com/DesignKit/>** · 21 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/DesignKit/>** · 23 tools + 20 guides
 
 [Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
 
@@ -189,9 +189,9 @@ Popular calculators:
 
 ## ✏️ TextKit — Text & Writing Tools
 
-**Suite home:** **<https://sarvkit.com/TextKit/>** · 9 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/TextKit/>** · 16 tools + 20 guides
 
-[Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
+[Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Text to Braille Translator](https://sarvkit.com/TextKit/braille-translator/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
 
 ---
 
