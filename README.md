@@ -2,7 +2,7 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **203 online tools and 240+ in-depth guides (443+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **204 online tools and 240+ in-depth guides (444+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -19,7 +19,7 @@
 | 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators + 20 guides |
 | 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 9 guides** |
 | ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 10 guides** |
-| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs, remove password | 12 tools + 20 guides |
+| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs, remove password, extract data | 13 tools + 20 guides |
 | 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 20 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
@@ -133,9 +133,9 @@ Popular calculators:
 
 ## 📄 PDFTools — Free PDF Utilities
 
-**Suite home:** **<https://sarvkit.com/PDFTools/>** · 12 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/PDFTools/>** · 13 tools + 20 guides
 
-[Merge PDF](https://sarvkit.com/PDFTools/merge-pdf/) · [Split PDF](https://sarvkit.com/PDFTools/split-pdf/) · [Compress PDF](https://sarvkit.com/PDFTools/compress-pdf/) · [Rotate PDF](https://sarvkit.com/PDFTools/rotate-pdf/) · [Watermark PDF](https://sarvkit.com/PDFTools/watermark-pdf/) · [PDF to Image](https://sarvkit.com/PDFTools/pdf-to-image/) · [Image to PDF](https://sarvkit.com/PDFTools/image-to-pdf/)
+[Merge PDF](https://sarvkit.com/PDFTools/merge-pdf/) · [Split PDF](https://sarvkit.com/PDFTools/split-pdf/) · [Compress PDF](https://sarvkit.com/PDFTools/compress-pdf/) · [Rotate PDF](https://sarvkit.com/PDFTools/rotate-pdf/) · [Watermark PDF](https://sarvkit.com/PDFTools/watermark-pdf/) · [PDF to Image](https://sarvkit.com/PDFTools/pdf-to-image/) · [Image to PDF](https://sarvkit.com/PDFTools/image-to-pdf/) · [PDF Field Extractor](https://sarvkit.com/PDFTools/pdf-field-extractor/)
 
 ---
 
