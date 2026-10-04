@@ -2,7 +2,7 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **205 online tools and 240+ in-depth guides (445+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **206 online tools and 210+ in-depth guides (415+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -15,16 +15,16 @@
 
 | Suite | What it does | Volume |
 |---|---|---|
-| 🧮 **[CalcWise](https://sarvkit.com/CalcWise/)** | Financial calculators for India, US & UK — SIP, EMI, tax, loans, investments, retirement | 36 calculators + 23 guides |
-| 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators + 20 guides |
-| 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 9 guides** |
-| ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 10 guides** |
+| 🧮 **[CalcWise](https://sarvkit.com/CalcWise/)** | Financial calculators for India, US & UK — SIP, EMI, tax, loans, investments, retirement | 36 calculators + 18 guides |
+| 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators |
+| 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 5 guides** |
+| ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 9 guides** |
 | 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs, remove password, extract data | 13 tools + 20 guides |
-| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 20 guides |
+| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 17 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
-| 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 20 guides |
-| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 23 tools + 20 guides |
+| 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 21 guides |
+| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 24 tools + 20 guides |
 | `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator | 35 tools + 21 articles |
 | ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 16 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
@@ -52,18 +52,14 @@ Right-size your insurance cover and estimate premiums for life, health, disabili
 | [Pet Insurance Estimator](https://sarvkit.com/InsureKit/pet-insurance-estimator/) | Monthly and annual pet-insurance premium for dogs and cats |
 | [Travel Insurance Estimator](https://sarvkit.com/InsureKit/travel-insurance-estimator/) | Single-trip travel-insurance estimate by age, destination, duration and coverage |
 
-### Guides (9)
+### Guides (5)
 
 | Guide | Topic |
 |---|---|
 | [Human Life Value vs Income Replacement](https://sarvkit.com/InsureKit/guides/human-life-value-vs-income-replacement/) | How HLV and income-replacement methods differ, with worked examples |
-| [Term vs Whole Life Insurance](https://sarvkit.com/InsureKit/guides/term-vs-whole-life-insurance/) | When term beats whole-life, cost comparison and decision framework |
-| [How Much Health Insurance Do You Need](https://sarvkit.com/InsureKit/guides/how-much-health-insurance-do-you-need/) | City-tier, family-size and condition-based sum-assured guidance |
 | [Auto Insurance Coverage Explained](https://sarvkit.com/InsureKit/guides/auto-insurance-coverage-explained/) | Liability, comprehensive, collision, NCB and add-ons demystified |
-| [Home Insurance Basics: Replacement vs Market Value](https://sarvkit.com/InsureKit/guides/home-insurance-basics-replacement-vs-market-value/) | Why insure-to-rebuild beats market-value cover |
 | [Renters Insurance Explained](https://sarvkit.com/InsureKit/guides/renters-insurance-explained/) | What renters insurance covers, liability and how premium is set |
 | [Critical Illness Cover Explained](https://sarvkit.com/InsureKit/guides/critical-illness-cover-explained/) | Lump-sum cover, illness lists, waiting periods and the cover gap |
-| [Pet Insurance Explained](https://sarvkit.com/InsureKit/guides/pet-insurance-explained/) | Accident-only vs comprehensive, breed factors and deductibles |
 | [Travel Insurance Explained](https://sarvkit.com/InsureKit/guides/travel-insurance-explained/) | Single-trip vs annual, medical limits, COVID & adventure-sport add-ons |
 
 ---
@@ -101,7 +97,6 @@ Generate printable, plain-English legal templates — NDAs, privacy policies, te
 | [Cookie Policy & Consent Banners](https://sarvkit.com/LegalKit/guides/cookie-policy-and-consent-banners/) | Cookie categories, consent UX and regional requirements |
 | [Refund Policy Explained](https://sarvkit.com/LegalKit/guides/refund-policy-explained/) | Refund windows, full vs partial, exclusions and conversion impact |
 | [Return Policy Best Practices](https://sarvkit.com/LegalKit/guides/return-policy-best-practices/) | Return windows, condition, restocking fees and customer trust |
-| [Shipping Policy Essentials](https://sarvkit.com/LegalKit/guides/shipping-policy-essentials/) | Domestic vs international, ETAs, lost-package handling, free-shipping rules |
 | [Rental / Lease Agreement Guide](https://sarvkit.com/LegalKit/guides/rental-lease-agreement-guide/) | Rent, deposit, term, utilities, repairs and house rules |
 | [EULA Essentials for Software](https://sarvkit.com/LegalKit/guides/eula-essentials-for-software/) | License grant, restrictions, warranty disclaimers and updates |
 
@@ -109,7 +104,7 @@ Generate printable, plain-English legal templates — NDAs, privacy policies, te
 
 ## 🧮 CalcWise — Financial Calculators (India · US · UK)
 
-**Suite home:** **<https://sarvkit.com/CalcWise/>** · 36 calculators + 23 guides
+**Suite home:** **<https://sarvkit.com/CalcWise/>** · 36 calculators + 18 guides
 
 Popular calculators:
 - [SIP Calculator](https://sarvkit.com/CalcWise/SIPCalculator/) — Mutual-fund SIP returns with charts
@@ -125,9 +120,9 @@ Popular calculators:
 
 ## 💪 FitCalc — Health & Fitness Calculators
 
-**Suite home:** **<https://sarvkit.com/FitCalc/>** · 11 calculators + 20 guides
+**Suite home:** **<https://sarvkit.com/FitCalc/>** · 11 calculators
 
-[Calorie Calculator](https://sarvkit.com/FitCalc/calorie-calculator/) · [Macro Calculator](https://sarvkit.com/FitCalc/macro-calculator/) · [Body Fat Calculator](https://sarvkit.com/FitCalc/body-fat-calculator/) · [BMR Calculator](https://sarvkit.com/FitCalc/bmr-calculator/) · [Heart Rate Zones](https://sarvkit.com/FitCalc/heart-rate-calculator/) · [Water Intake](https://sarvkit.com/FitCalc/water-intake-calculator/)
+[Calorie Calculator](https://sarvkit.com/FitCalc/calorie-calculator/) · [Macro Calculator](https://sarvkit.com/FitCalc/macro-calculator/) · [Body Fat Calculator](https://sarvkit.com/FitCalc/body-fat-calculator/) · [One-Rep Max Calculator](https://sarvkit.com/FitCalc/one-rep-max-calculator/) · [Heart Rate Zones](https://sarvkit.com/FitCalc/heart-rate-calculator/) · [Water Intake](https://sarvkit.com/FitCalc/water-intake-calculator/)
 
 ---
 
@@ -141,7 +136,7 @@ Popular calculators:
 
 ## 💼 BizKit — Small-Business Tools
 
-**Suite home:** **<https://sarvkit.com/BizKit/>** · 11 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/BizKit/>** · 11 tools + 17 guides
 
 [Invoice Generator](https://sarvkit.com/BizKit/invoice-generator/) · [Invoice to Excel](https://sarvkit.com/BizKit/invoice-to-excel/) · [Receipt Maker](https://sarvkit.com/BizKit/receipt-maker/) · [ROI Calculator](https://sarvkit.com/BizKit/roi-calculator/) · [Profit Margin](https://sarvkit.com/BizKit/profit-margin-calculator/) · [Break-Even](https://sarvkit.com/BizKit/break-even-calculator/) · [Discount Calculator](https://sarvkit.com/BizKit/discount-calculator/) · [Sales Tax](https://sarvkit.com/BizKit/sales-tax-calculator/) · [Hourly Rate](https://sarvkit.com/BizKit/hourly-rate-calculator/) · [Business Name Generator](https://sarvkit.com/BizKit/business-name-generator/) · [Startup Cost Estimator](https://sarvkit.com/BizKit/startup-cost-estimator/)
 
@@ -165,7 +160,7 @@ Popular calculators:
 
 ## 🔍 SEOKit — SEO Tools
 
-**Suite home:** **<https://sarvkit.com/SEOKit/>** · 9 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/SEOKit/>** · 9 tools + 21 guides
 
 [Meta Tag Generator](https://sarvkit.com/SEOKit/meta-tag-generator/) · [Open Graph Preview](https://sarvkit.com/SEOKit/og-preview/) · [Schema Generator](https://sarvkit.com/SEOKit/schema-generator/)
 
@@ -173,9 +168,9 @@ Popular calculators:
 
 ## 🎨 DesignKit — Design Tools
 
-**Suite home:** **<https://sarvkit.com/DesignKit/>** · 23 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/DesignKit/>** · 24 tools + 20 guides
 
-[Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
+[Graph Maker](https://sarvkit.com/DesignKit/graph-maker/) · [Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
 
 ---
 
