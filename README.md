@@ -2,7 +2,7 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **206 online tools and 210+ in-depth guides (415+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **207 online tools and 210+ in-depth guides (417+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -25,7 +25,7 @@
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
 | 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 21 guides |
 | 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 24 tools + 20 guides |
-| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator | 35 tools + 21 articles |
+| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator | 36 tools + 21 articles |
 | ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 16 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
 
@@ -43,13 +43,13 @@ Right-size your insurance cover and estimate premiums for life, health, disabili
 |---|---|
 | [Human Life Value Calculator](https://sarvkit.com/InsureKit/human-life-value-calculator/) | Estimate the right life-cover amount from income, expenses, debts and future goals |
 | [Term Life Premium Estimator](https://sarvkit.com/InsureKit/term-life-premium-estimator/) | Monthly and annual term-life premium by age, gender, smoker status and health class |
-| [Health Insurance Cover Calculator](https://sarvkit.com/InsureKit/health-insurance-cover-calculator/) | Right-size health-insurance sum-assured by age, family, city tier and conditions |
+| [Health Insurance Cover Calculator](https://sarvkit.com/InsureKit/health-insurance-cover-calculator/) | Right-size health insurance sum insured in India by age, family, city tier and conditions |
 | [Disability Income Calculator](https://sarvkit.com/InsureKit/disability-income-calculator/) | Monthly income gap and disability cover needed if you can't work |
-| [Auto Insurance Premium Estimator](https://sarvkit.com/InsureKit/auto-insurance-premium-estimator/) | Indicative annual auto premium by vehicle type, value, coverage and NCB |
-| [Home Insurance Cover Estimator](https://sarvkit.com/InsureKit/home-insurance-cover-estimator/) | Right-size home-insurance sum-assured for structure and contents |
-| [Renters Insurance Calculator](https://sarvkit.com/InsureKit/renters-insurance-calculator/) | Contents cover, liability and annual premium estimate for renters |
+| [Auto Insurance Premium Estimator](https://sarvkit.com/InsureKit/auto-insurance-premium-estimator/) | Car insurance premium in India: official third-party rate, own-damage, NCB, add-ons and GST |
+| [Home Insurance Cover Estimator](https://sarvkit.com/InsureKit/home-insurance-cover-estimator/) | Size dwelling and contents cover, and see the average premium in your state |
+| [Renters Insurance Calculator](https://sarvkit.com/InsureKit/renters-insurance-calculator/) | Contents and liability cover, with a premium estimate based on your state's average |
 | [Critical Illness Cover Calculator](https://sarvkit.com/InsureKit/critical-illness-cover-calculator/) | Recommended critical-illness lump-sum cover, premium and cover gap |
-| [Pet Insurance Estimator](https://sarvkit.com/InsureKit/pet-insurance-estimator/) | Monthly and annual pet-insurance premium for dogs and cats |
+| [Pet Insurance Estimator](https://sarvkit.com/InsureKit/pet-insurance-estimator/) | Monthly and annual pet insurance premium for dogs and cats, based on US industry averages |
 | [Travel Insurance Estimator](https://sarvkit.com/InsureKit/travel-insurance-estimator/) | Single-trip travel-insurance estimate by age, destination, duration and coverage |
 
 ### Guides (5)
@@ -176,9 +176,9 @@ Popular calculators:
 
 ## `</>` DevKit — Developer & Converter Tools
 
-**Suite home:** **<https://sarvkit.com/DevKit/>** · 35 tools + 21 articles
+**Suite home:** **<https://sarvkit.com/DevKit/>** · 36 tools + 21 articles
 
-[Sample File Generator](https://sarvkit.com/DevKit/sample-file-generator/) · [Mock Data Generator](https://sarvkit.com/DevKit/mock-data-generator/) · [JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
+[Sample File Generator](https://sarvkit.com/DevKit/sample-file-generator/) · [Corrupt File Generator](https://sarvkit.com/DevKit/corrupt-file-generator/) · [Mock Data Generator](https://sarvkit.com/DevKit/mock-data-generator/) · [JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
 
 ---
 
