@@ -2,7 +2,9 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **207 online tools and 210+ in-depth guides (417+ total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **100% client-side. No sign-up. No tracking of your data.**
+**SarvKit** is a free, browser-based suite of **215 online tools and 211 guides and articles (426 total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF and OCR tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **Client-side processing. No sign-up.**
+
+*Catalog updated: 2026-10-20, based on the local site inventory; this is not confirmation that the latest changes are deployed.*
 
 - 🌐 Visit: **<https://sarvkit.com/>**
 - 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
@@ -19,15 +21,60 @@
 | 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators |
 | 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 5 guides** |
 | ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 9 guides** |
-| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | Merge, split, compress, rotate, watermark, convert PDFs, remove password, extract data | 13 tools + 20 guides |
-| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Invoice, receipt, ROI, break-even, profit margin, startup-cost | 11 tools + 17 guides |
+| 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | OCR searchable PDFs, scan to Word, redact, merge, split, compress, rotate, watermark, convert, remove password, extract data | 16 tools + 20 guides |
+| 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Image to Excel, receipt and business card scanners, invoice, receipt maker, ROI, break-even, profit margin, startup-cost | 14 tools + 17 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
 | 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 21 guides |
 | 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 24 tools + 20 guides |
-| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator | 36 tools + 21 articles |
-| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 16 tools + 20 guides |
+| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | QR code reader / JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator | 37 tools + 21 articles |
+| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Image to text (OCR), readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 17 tools + 20 guides |
 | 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
+
+---
+
+## Free OCR and Related Scanning Tools
+
+| Tool | What it does |
+|---|---|
+| [Image to Text](https://sarvkit.com/TextKit/image-to-text/) | Extract editable text from images and scanned PDFs |
+| [OCR PDF](https://sarvkit.com/PDFTools/ocr-pdf/) | Add a searchable text layer to scanned PDFs |
+| [Scan to Word](https://sarvkit.com/PDFTools/scan-to-word/) | Convert scanned documents into editable Word files |
+| [Redact PDF](https://sarvkit.com/PDFTools/redact-pdf/) | Find text with OCR and apply redactions to a rasterized PDF export |
+| [Image to Excel](https://sarvkit.com/BizKit/image-to-excel/) | Extract scanned tables into editable rows for spreadsheet export |
+| [Receipt Scanner](https://sarvkit.com/BizKit/receipt-scanner/) | Extract receipt details and amounts for review and export |
+| [Business Card Scanner](https://sarvkit.com/BizKit/business-card-scanner/) | Extract contact details from business cards for review and export |
+| [QR Code Reader](https://sarvkit.com/DevKit/qr-code-reader/) | Decode QR codes and barcodes from images, screenshots and PDFs locally |
+
+Document recognition runs locally in the browser. Tesseract.js and its cores
+are pinned to 7.0.0 on jsDelivr; the 21 language models use the pinned
+`naptha/tessdata` commit `806cd9adc8c6e8abc11c782db1818c990576bebc`
+(`4.0.0_best_int`). ZXing 3.1.5 loads on demand from pinned jsDelivr URLs
+with SHA-384 integrity checks for its script and WebAssembly. jsDelivr receives
+ordinary asset-request metadata, not documents. Internet access is needed for engine
+startup and uncached assets; browser caches can be cleared or evicted, so offline
+OCR is not guaranteed. Supporting libraries and fonts may also load from approved
+CDNs. See the [OCR asset and verification guide](assets/vendor/README.md).
+OCR accuracy varies with scan quality, language and layout;
+review extracted text, spreadsheet cells, receipt amounts and redactions before
+use. The QR reader decodes codes rather than recognizing text.
+
+## Finding Related Tools and Guides
+
+Start at the [main homepage](https://sarvkit.com/) or any suite homepage above.
+Static navigation links connect tools, guide hubs, parent pages and all 13 suite
+homepages, even with JavaScript disabled. Site search provides another route to
+tools and guides when JavaScript is enabled.
+
+The combined [sitemap](https://sarvkit.com/sitemap.xml) contains **484 public
+canonical URLs**; the search index contains **479 entries**. These discovery
+counts include homepages and resume samples/templates, so they are not tool
+counts. Local navigation checks covered **485 full HTML pages** (including the
+404 page) and **16,133 internal links**, with no broken destinations or
+unreachable public pages and a maximum of three clicks from the main homepage.
+
+For maintenance and publishing steps, see the root
+[README](README.md#sitemap-and-search-discovery).
 
 ---
 
@@ -86,7 +133,7 @@ Generate printable, plain-English legal templates — NDAs, privacy policies, te
 | [Rental / Lease Agreement Generator](https://sarvkit.com/LegalKit/rental-agreement-generator/) | Residential lease — rent, deposit, term, utilities, house rules |
 | [EULA Generator](https://sarvkit.com/LegalKit/eula-generator/) | End User License Agreement for desktop software, mobile apps and SaaS |
 
-### Guides (10)
+### Guides (9)
 
 | Guide | Topic |
 |---|---|
@@ -128,7 +175,9 @@ Popular calculators:
 
 ## 📄 PDFTools — Free PDF Utilities
 
-**Suite home:** **<https://sarvkit.com/PDFTools/>** · 13 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/PDFTools/>** · 16 tools + 20 guides
+
+[OCR PDF](https://sarvkit.com/PDFTools/ocr-pdf/) · [Scan to Word](https://sarvkit.com/PDFTools/scan-to-word/) · [Redact PDF](https://sarvkit.com/PDFTools/redact-pdf/)
 
 [Merge PDF](https://sarvkit.com/PDFTools/merge-pdf/) · [Split PDF](https://sarvkit.com/PDFTools/split-pdf/) · [Compress PDF](https://sarvkit.com/PDFTools/compress-pdf/) · [Rotate PDF](https://sarvkit.com/PDFTools/rotate-pdf/) · [Watermark PDF](https://sarvkit.com/PDFTools/watermark-pdf/) · [PDF to Image](https://sarvkit.com/PDFTools/pdf-to-image/) · [Image to PDF](https://sarvkit.com/PDFTools/image-to-pdf/) · [PDF Field Extractor](https://sarvkit.com/PDFTools/pdf-field-extractor/)
 
@@ -136,7 +185,9 @@ Popular calculators:
 
 ## 💼 BizKit — Small-Business Tools
 
-**Suite home:** **<https://sarvkit.com/BizKit/>** · 11 tools + 17 guides
+**Suite home:** **<https://sarvkit.com/BizKit/>** · 14 tools + 17 guides
+
+[Image to Excel](https://sarvkit.com/BizKit/image-to-excel/) · [Receipt Scanner](https://sarvkit.com/BizKit/receipt-scanner/) · [Business Card Scanner](https://sarvkit.com/BizKit/business-card-scanner/)
 
 [Invoice Generator](https://sarvkit.com/BizKit/invoice-generator/) · [Invoice to Excel](https://sarvkit.com/BizKit/invoice-to-excel/) · [Receipt Maker](https://sarvkit.com/BizKit/receipt-maker/) · [ROI Calculator](https://sarvkit.com/BizKit/roi-calculator/) · [Profit Margin](https://sarvkit.com/BizKit/profit-margin-calculator/) · [Break-Even](https://sarvkit.com/BizKit/break-even-calculator/) · [Discount Calculator](https://sarvkit.com/BizKit/discount-calculator/) · [Sales Tax](https://sarvkit.com/BizKit/sales-tax-calculator/) · [Hourly Rate](https://sarvkit.com/BizKit/hourly-rate-calculator/) · [Business Name Generator](https://sarvkit.com/BizKit/business-name-generator/) · [Startup Cost Estimator](https://sarvkit.com/BizKit/startup-cost-estimator/)
 
@@ -176,7 +227,9 @@ Popular calculators:
 
 ## `</>` DevKit — Developer & Converter Tools
 
-**Suite home:** **<https://sarvkit.com/DevKit/>** · 36 tools + 21 articles
+**Suite home:** **<https://sarvkit.com/DevKit/>** · 37 tools + 21 articles
+
+[QR Code Reader](https://sarvkit.com/DevKit/qr-code-reader/)
 
 [Sample File Generator](https://sarvkit.com/DevKit/sample-file-generator/) · [Corrupt File Generator](https://sarvkit.com/DevKit/corrupt-file-generator/) · [Mock Data Generator](https://sarvkit.com/DevKit/mock-data-generator/) · [JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
 
@@ -184,7 +237,9 @@ Popular calculators:
 
 ## ✏️ TextKit — Text & Writing Tools
 
-**Suite home:** **<https://sarvkit.com/TextKit/>** · 16 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/TextKit/>** · 17 tools + 20 guides
+
+[Image to Text (OCR)](https://sarvkit.com/TextKit/image-to-text/)
 
 [Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Text to Braille Translator](https://sarvkit.com/TextKit/braille-translator/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
 
@@ -209,7 +264,7 @@ Popular calculators:
 
 ### Why SarvKit?
 
-- **100% browser-based** — your inputs and files never leave your device
+- **Browser-based tools** — document processing happens locally; supporting assets may require network downloads
 - **No sign-up, no paywall, no email capture**
 - **Mobile-first** responsive design across every tool
 - **SEO-optimized** with structured data, OG images and canonical URLs
