@@ -2,25 +2,21 @@
 
 > **Website:** **[https://sarvkit.com](https://sarvkit.com/)**
 
-**SarvKit** is a free, browser-based suite of **215 online tools and 211 guides and articles (426 total)** — financial calculators, insurance calculators, legal-document generators, developer utilities, PDF and OCR tools, design tools, SEO tools, resume builders, fitness calculators, unit converters, text tools, business tools and student tools. **Client-side processing. No sign-up.**
+**SarvKit** is a free, browser-based collection of developer utilities, PDF and OCR tools, design tools, SEO tools, resume builders, text tools, business tools and student tools. **Client-side processing. No sign-up.**
 
-*Catalog updated: 2026-10-20, based on the local site inventory; this is not confirmation that the latest changes are deployed.*
+*Catalog reflects the local eight-suite inventory; this is not confirmation that changes are deployed.*
 
 - 🌐 Visit: **<https://sarvkit.com/>**
-- 📚 13 specialized "Kits" covering finance, health, dev, business, study, law and more
+- 📚 8 specialized "Kits" covering development, documents, writing, design, business and study
 - 🔒 Every calculation runs locally in your browser — your inputs never leave your device
 - ⚡ Served from Cloudflare's global edge network with HTTPS + HTTP/3
 
 ---
 
-## All 13 SarvKit Suites
+## All 8 SarvKit Suites
 
 | Suite | What it does | Volume |
 |---|---|---|
-| 🧮 **[CalcWise](https://sarvkit.com/CalcWise/)** | Financial calculators for India, US & UK — SIP, EMI, tax, loans, investments, retirement | 36 calculators + 18 guides |
-| 💪 **[FitCalc](https://sarvkit.com/FitCalc/)** | Health & fitness — calorie, macro, BMR, body-fat, heart-rate, water-intake | 11 calculators |
-| 🛡️ **[InsureKit](https://sarvkit.com/InsureKit/)** | Insurance calculators — life, health, disability, auto, home, renters, pet, travel | **10 tools + 5 guides** |
-| ⚖️ **[LegalKit](https://sarvkit.com/LegalKit/)** | Legal document generators — NDA, privacy, ToS, refund, return, shipping, EULA | **11 tools + 9 guides** |
 | 📄 **[PDFTools](https://sarvkit.com/PDFTools/)** | OCR searchable PDFs, scan to Word, redact, merge, split, compress, rotate, watermark, convert, remove password, extract data | 16 tools + 20 guides |
 | 💼 **[BizKit](https://sarvkit.com/BizKit/)** | Image to Excel, receipt and business card scanners, invoice, receipt maker, ROI, break-even, profit margin, startup-cost | 14 tools + 17 guides |
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
@@ -29,7 +25,6 @@
 | 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 24 tools + 20 guides |
 | `</>` **[DevKit](https://sarvkit.com/DevKit/)** | QR code reader / JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator | 37 tools + 21 articles |
 | ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Image to text (OCR), readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 17 tools + 20 guides |
-| 📐 **[UnitSnap](https://sarvkit.com/UnitSnap/)** | Length, weight, temperature, speed, area, volume converters | 15 converters + 20 guides |
 
 ---
 
@@ -62,114 +57,14 @@ use. The QR reader decodes codes rather than recognizing text.
 ## Finding Related Tools and Guides
 
 Start at the [main homepage](https://sarvkit.com/) or any suite homepage above.
-Static navigation links connect tools, guide hubs, parent pages and all 13 suite
+Static navigation links connect tools, guide hubs, parent pages and all 8 suite
 homepages, even with JavaScript disabled. Site search provides another route to
 tools and guides when JavaScript is enabled.
 
-The combined [sitemap](https://sarvkit.com/sitemap.xml) contains **484 public
-canonical URLs**; the search index contains **479 entries**. These discovery
-counts include homepages and resume samples/templates, so they are not tool
-counts. Local navigation checks covered **485 full HTML pages** (including the
-404 page) and **16,133 internal links**, with no broken destinations or
-unreachable public pages and a maximum of three clicks from the main homepage.
+The combined [sitemap](https://sarvkit.com/sitemap.xml) and generated search index cover the retained public pages. Discovery counts also include suite homepages and resume samples/templates, so they are not tool counts. Run the navigation and discovery checks after changing the inventory.
 
 For maintenance and publishing steps, see the root
 [README](README.md#sitemap-and-search-discovery).
-
----
-
-## 🛡️ InsureKit — Free Insurance Calculators
-
-**Suite home:** **<https://sarvkit.com/InsureKit/>**
-
-Right-size your insurance cover and estimate premiums for life, health, disability, auto, home, renters, critical-illness, pet and travel — all in your browser.
-
-### Calculators (10)
-
-| Calculator | What it does |
-|---|---|
-| [Human Life Value Calculator](https://sarvkit.com/InsureKit/human-life-value-calculator/) | Estimate the right life-cover amount from income, expenses, debts and future goals |
-| [Term Life Premium Estimator](https://sarvkit.com/InsureKit/term-life-premium-estimator/) | Monthly and annual term-life premium by age, gender, smoker status and health class |
-| [Health Insurance Cover Calculator](https://sarvkit.com/InsureKit/health-insurance-cover-calculator/) | Right-size health insurance sum insured in India by age, family, city tier and conditions |
-| [Disability Income Calculator](https://sarvkit.com/InsureKit/disability-income-calculator/) | Monthly income gap and disability cover needed if you can't work |
-| [Auto Insurance Premium Estimator](https://sarvkit.com/InsureKit/auto-insurance-premium-estimator/) | Car insurance premium in India: official third-party rate, own-damage, NCB, add-ons and GST |
-| [Home Insurance Cover Estimator](https://sarvkit.com/InsureKit/home-insurance-cover-estimator/) | Size dwelling and contents cover, and see the average premium in your state |
-| [Renters Insurance Calculator](https://sarvkit.com/InsureKit/renters-insurance-calculator/) | Contents and liability cover, with a premium estimate based on your state's average |
-| [Critical Illness Cover Calculator](https://sarvkit.com/InsureKit/critical-illness-cover-calculator/) | Recommended critical-illness lump-sum cover, premium and cover gap |
-| [Pet Insurance Estimator](https://sarvkit.com/InsureKit/pet-insurance-estimator/) | Monthly and annual pet insurance premium for dogs and cats, based on US industry averages |
-| [Travel Insurance Estimator](https://sarvkit.com/InsureKit/travel-insurance-estimator/) | Single-trip travel-insurance estimate by age, destination, duration and coverage |
-
-### Guides (5)
-
-| Guide | Topic |
-|---|---|
-| [Human Life Value vs Income Replacement](https://sarvkit.com/InsureKit/guides/human-life-value-vs-income-replacement/) | How HLV and income-replacement methods differ, with worked examples |
-| [Auto Insurance Coverage Explained](https://sarvkit.com/InsureKit/guides/auto-insurance-coverage-explained/) | Liability, comprehensive, collision, NCB and add-ons demystified |
-| [Renters Insurance Explained](https://sarvkit.com/InsureKit/guides/renters-insurance-explained/) | What renters insurance covers, liability and how premium is set |
-| [Critical Illness Cover Explained](https://sarvkit.com/InsureKit/guides/critical-illness-cover-explained/) | Lump-sum cover, illness lists, waiting periods and the cover gap |
-| [Travel Insurance Explained](https://sarvkit.com/InsureKit/guides/travel-insurance-explained/) | Single-trip vs annual, medical limits, COVID & adventure-sport add-ons |
-
----
-
-## ⚖️ LegalKit — Free Legal Document Generators
-
-**Suite home:** **<https://sarvkit.com/LegalKit/>**
-
-Generate printable, plain-English legal templates — NDAs, privacy policies, terms of service, refund/return/shipping policies, rental agreements and EULAs. **All templates are general-purpose drafts and are not legal advice.**
-
-### Generators (11)
-
-| Generator | What it produces |
-|---|---|
-| [NDA Generator](https://sarvkit.com/LegalKit/nda-generator/) | Printable mutual non-disclosure agreement from a short form |
-| [Service Agreement Generator](https://sarvkit.com/LegalKit/service-agreement-generator/) | Freelance / consulting service agreement with IP and confidentiality clauses |
-| [Privacy Policy Generator](https://sarvkit.com/LegalKit/privacy-policy-generator/) | GDPR / CCPA-aware privacy policy, tailored by jurisdiction |
-| [Terms of Service Generator](https://sarvkit.com/LegalKit/terms-of-service-generator/) | Terms of service / use for websites, SaaS, apps and marketplaces |
-| [Cookie Policy Generator](https://sarvkit.com/LegalKit/cookie-policy-generator/) | Clear cookie policy for essential, analytics and advertising cookies |
-| [Disclaimer Generator](https://sarvkit.com/LegalKit/disclaimer-generator/) | Website disclaimer — general, financial, medical, legal or affiliate |
-| [Refund Policy Generator](https://sarvkit.com/LegalKit/refund-policy-generator/) | Refund policy with window, refund type, processing time and exclusions |
-| [Return Policy Generator](https://sarvkit.com/LegalKit/return-policy-generator/) | E-commerce return policy with window, condition, shipping and restocking fee |
-| [Shipping Policy Generator](https://sarvkit.com/LegalKit/shipping-policy-generator/) | Shipping regions, methods, ETAs and free-shipping thresholds |
-| [Rental / Lease Agreement Generator](https://sarvkit.com/LegalKit/rental-agreement-generator/) | Residential lease — rent, deposit, term, utilities, house rules |
-| [EULA Generator](https://sarvkit.com/LegalKit/eula-generator/) | End User License Agreement for desktop software, mobile apps and SaaS |
-
-### Guides (9)
-
-| Guide | Topic |
-|---|---|
-| [NDA Essentials: Mutual vs Unilateral](https://sarvkit.com/LegalKit/guides/nda-essentials-mutual-vs-unilateral/) | Mutual vs one-way NDAs, term length and common pitfalls |
-| [Writing a Strong Service Agreement](https://sarvkit.com/LegalKit/guides/writing-a-strong-service-agreement/) | Scope, IP, payment, termination and confidentiality clauses |
-| [Privacy Policy Best Practices](https://sarvkit.com/LegalKit/guides/privacy-policy-best-practices/) | GDPR / CCPA essentials, data categories, retention and contact |
-| [Terms of Service Essentials](https://sarvkit.com/LegalKit/guides/terms-of-service-essentials/) | License grant, prohibited use, liability cap and dispute resolution |
-| [Cookie Policy & Consent Banners](https://sarvkit.com/LegalKit/guides/cookie-policy-and-consent-banners/) | Cookie categories, consent UX and regional requirements |
-| [Refund Policy Explained](https://sarvkit.com/LegalKit/guides/refund-policy-explained/) | Refund windows, full vs partial, exclusions and conversion impact |
-| [Return Policy Best Practices](https://sarvkit.com/LegalKit/guides/return-policy-best-practices/) | Return windows, condition, restocking fees and customer trust |
-| [Rental / Lease Agreement Guide](https://sarvkit.com/LegalKit/guides/rental-lease-agreement-guide/) | Rent, deposit, term, utilities, repairs and house rules |
-| [EULA Essentials for Software](https://sarvkit.com/LegalKit/guides/eula-essentials-for-software/) | License grant, restrictions, warranty disclaimers and updates |
-
----
-
-## 🧮 CalcWise — Financial Calculators (India · US · UK)
-
-**Suite home:** **<https://sarvkit.com/CalcWise/>** · 36 calculators + 18 guides
-
-Popular calculators:
-- [SIP Calculator](https://sarvkit.com/CalcWise/SIPCalculator/) — Mutual-fund SIP returns with charts
-- [EMI Calculator](https://sarvkit.com/CalcWise/EMICalculator/) — Loan EMI with amortization
-- [Tax Calculator](https://sarvkit.com/CalcWise/TaxCalculator/) — Indian income-tax (old vs new regime)
-- [Compound Interest Calculator](https://sarvkit.com/CalcWise/CompoundInterestCalculator/)
-- [Mortgage Calculator](https://sarvkit.com/CalcWise/MortgageCalculator/) · [UK Mortgage](https://sarvkit.com/CalcWise/UKMortgageCalculator/)
-- [Retirement Calculator](https://sarvkit.com/CalcWise/RetirementCalculator/) · [401(k)](https://sarvkit.com/CalcWise/401kCalculator/) · [Roth IRA](https://sarvkit.com/CalcWise/RothIRACalculator/) · [ISA](https://sarvkit.com/CalcWise/ISACalculator/) · [NPS](https://sarvkit.com/CalcWise/NPSCalculator/) · [PPF](https://sarvkit.com/CalcWise/PPFCalculator/) · [EPF](https://sarvkit.com/CalcWise/EPFCalculator/)
-- [Step-Up SIP](https://sarvkit.com/CalcWise/StepUpSIPCalculator/) · [SWP](https://sarvkit.com/CalcWise/SWPCalculator/) · [Lump Sum](https://sarvkit.com/CalcWise/LumpSumCalculator/) · [CAGR](https://sarvkit.com/CalcWise/CAGRCalculator/) · [Inflation](https://sarvkit.com/CalcWise/InflationCalculator/)
-- [Paycheck](https://sarvkit.com/CalcWise/PaycheckCalculator/) · [Salary](https://sarvkit.com/CalcWise/SalaryCalculator/) · [HRA](https://sarvkit.com/CalcWise/HRACalculator/) · [Gratuity](https://sarvkit.com/CalcWise/GratuityCalculator/) · [GST](https://sarvkit.com/CalcWise/GSTCalculator/) · [Social Security](https://sarvkit.com/CalcWise/SocialSecurityCalculator/)
-
----
-
-## 💪 FitCalc — Health & Fitness Calculators
-
-**Suite home:** **<https://sarvkit.com/FitCalc/>** · 11 calculators
-
-[Calorie Calculator](https://sarvkit.com/FitCalc/calorie-calculator/) · [Macro Calculator](https://sarvkit.com/FitCalc/macro-calculator/) · [Body Fat Calculator](https://sarvkit.com/FitCalc/body-fat-calculator/) · [One-Rep Max Calculator](https://sarvkit.com/FitCalc/one-rep-max-calculator/) · [Heart Rate Zones](https://sarvkit.com/FitCalc/heart-rate-calculator/) · [Water Intake](https://sarvkit.com/FitCalc/water-intake-calculator/)
 
 ---
 
@@ -242,14 +137,6 @@ Popular calculators:
 [Image to Text (OCR)](https://sarvkit.com/TextKit/image-to-text/)
 
 [Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Text to Braille Translator](https://sarvkit.com/TextKit/braille-translator/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
-
----
-
-## 📐 UnitSnap — Unit Converters
-
-**Suite home:** **<https://sarvkit.com/UnitSnap/>** · 15 converters + 20 guides
-
-[Length Converter](https://sarvkit.com/UnitSnap/length-converter/) · [Weight Converter](https://sarvkit.com/UnitSnap/weight-converter/) · [Temperature Converter](https://sarvkit.com/UnitSnap/temperature-converter/)
 
 ---
 
