@@ -22,9 +22,9 @@
 | 📝 **[ResumeKit](https://sarvkit.com/ResumeKit/)** | Resume builder, cover-letter, LinkedIn summary, bullet rewriter | 5 tools + 20 guides |
 | 🎓 **[StudentKit](https://sarvkit.com/StudentKit/)** | GPA, grade converter, citations, pomodoro, flashcards, typing test | 10 tools + 20 guides |
 | 🔍 **[SEOKit](https://sarvkit.com/SEOKit/)** | Meta tags, OG preview, schema, robots.txt, sitemap, SERP preview | 9 tools + 21 guides |
-| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), image resize/crop/filter, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 24 tools + 20 guides |
-| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | QR code reader / JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator | 37 tools + 21 articles |
-| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Image to text (OCR), readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 17 tools + 20 guides |
+| 🎨 **[DesignKit](https://sarvkit.com/DesignKit/)** | Graph maker (PDF/EPS/SVG charts), AI image checker (Content Credentials), image resize/crop/filter, photo censor with face detection, gradients, shadows, palette, clip-path, glassmorphism, easing, loaders, color scales, contrast, blobs, patterns, EXIF remover, HEIC to JPG | 25 tools + 20 guides |
+| `</>` **[DevKit](https://sarvkit.com/DevKit/)** | QR code reader / JSON / Base64 / hash / regex / diff / minifier / TOML / chmod / subnet calculator / sample file generator / mock data generator / corrupt file generator / RAG test document generator | 38 tools + 21 articles |
+| ✏️ **[TextKit](https://sarvkit.com/TextKit/)** | Image to text (OCR), AI answer to Word, invisible character detector, readability, headline analyzer, slug, fancy text, text to braille, morse code, bionic reading, handwriting | 19 tools + 20 guides |
 
 ---
 
@@ -114,29 +114,29 @@ For maintenance and publishing steps, see the root
 
 ## 🎨 DesignKit — Design Tools
 
-**Suite home:** **<https://sarvkit.com/DesignKit/>** · 24 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/DesignKit/>** · 25 tools + 20 guides
 
-[Graph Maker](https://sarvkit.com/DesignKit/graph-maker/) · [Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
+[Graph Maker](https://sarvkit.com/DesignKit/graph-maker/) · [AI Image Checker](https://sarvkit.com/DesignKit/ai-image-checker/) · [Photo Censor](https://sarvkit.com/DesignKit/photo-censor/) · [Image Resizer](https://sarvkit.com/DesignKit/image-resizer/) · [Image Cropper](https://sarvkit.com/DesignKit/image-cropper/) · [Image Filters](https://sarvkit.com/DesignKit/image-filters/) · [Color Palette Extractor](https://sarvkit.com/DesignKit/color-palette-extractor/) · [Gradient Generator](https://sarvkit.com/DesignKit/gradient-generator/) · [Box Shadow Generator](https://sarvkit.com/DesignKit/box-shadow-generator/) · [Favicon Generator](https://sarvkit.com/DesignKit/favicon-generator/) · [Screenshot Mockup](https://sarvkit.com/DesignKit/screenshot-mockup/) · [SVG to PNG](https://sarvkit.com/DesignKit/svg-to-png/) · [clip-path Generator](https://sarvkit.com/DesignKit/clip-path-generator/) · [Glassmorphism Generator](https://sarvkit.com/DesignKit/glassmorphism-generator/) · [Cubic Bézier Generator](https://sarvkit.com/DesignKit/cubic-bezier-generator/) · [CSS Loader Generator](https://sarvkit.com/DesignKit/css-loader-generator/) · [Border Radius Generator](https://sarvkit.com/DesignKit/border-radius-generator/) · [CSS Triangle Generator](https://sarvkit.com/DesignKit/css-triangle-generator/) · [Color Shades Generator](https://sarvkit.com/DesignKit/color-shades-generator/) · [Color Mixer](https://sarvkit.com/DesignKit/color-mixer/) · [Contrast Checker](https://sarvkit.com/DesignKit/contrast-checker/) · [SVG Blob Generator](https://sarvkit.com/DesignKit/svg-blob-generator/) · [SVG Pattern Generator](https://sarvkit.com/DesignKit/svg-pattern-generator/)
 
 ---
 
 ## `</>` DevKit — Developer & Converter Tools
 
-**Suite home:** **<https://sarvkit.com/DevKit/>** · 37 tools + 21 articles
+**Suite home:** **<https://sarvkit.com/DevKit/>** · 38 tools + 21 articles
 
 [QR Code Reader](https://sarvkit.com/DevKit/qr-code-reader/)
 
-[Sample File Generator](https://sarvkit.com/DevKit/sample-file-generator/) · [Corrupt File Generator](https://sarvkit.com/DevKit/corrupt-file-generator/) · [Mock Data Generator](https://sarvkit.com/DevKit/mock-data-generator/) · [JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
+[Sample File Generator](https://sarvkit.com/DevKit/sample-file-generator/) · [Corrupt File Generator](https://sarvkit.com/DevKit/corrupt-file-generator/) · [Mock Data Generator](https://sarvkit.com/DevKit/mock-data-generator/) · [RAG Test Document Generator](https://sarvkit.com/DevKit/rag-test-document-generator/) · [JSON Formatter](https://sarvkit.com/DevKit/json-formatter/) · [Base64 Encoder/Decoder](https://sarvkit.com/DevKit/base64/) · [Hash Generator](https://sarvkit.com/DevKit/hash-generator/) · [Diff Checker](https://sarvkit.com/DevKit/diff-checker/) · [Color Converter](https://sarvkit.com/DevKit/color-converter/) · [Case Converter](https://sarvkit.com/DevKit/case-converter/) · [Cron Parser](https://sarvkit.com/DevKit/cron-parser/) · [Subnet IP Enumerator](https://sarvkit.com/DevKit/subnet-ip-enumerator/) · [CSS Minifier](https://sarvkit.com/DevKit/css-minifier/) · [HTML Minifier](https://sarvkit.com/DevKit/html-minifier/) · [HTML Entities](https://sarvkit.com/DevKit/html-entities/) · [Image Compressor](https://sarvkit.com/DevKit/image-compressor/) · [Image to Base64](https://sarvkit.com/DevKit/image-to-base64/) · [JSON ↔ TOML](https://sarvkit.com/DevKit/json-toml/) · [YAML ↔ TOML](https://sarvkit.com/DevKit/yaml-toml/) · [Chmod Calculator](https://sarvkit.com/DevKit/chmod-calculator/)
 
 ---
 
 ## ✏️ TextKit — Text & Writing Tools
 
-**Suite home:** **<https://sarvkit.com/TextKit/>** · 17 tools + 20 guides
+**Suite home:** **<https://sarvkit.com/TextKit/>** · 19 tools + 20 guides
 
 [Image to Text (OCR)](https://sarvkit.com/TextKit/image-to-text/)
 
-[Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Text to Braille Translator](https://sarvkit.com/TextKit/braille-translator/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
+[AI Answer to Word](https://sarvkit.com/TextKit/markdown-to-word/) · [Invisible Character Detector](https://sarvkit.com/TextKit/invisible-character-detector/) · [Headline Analyzer](https://sarvkit.com/TextKit/headline-analyzer/) · [Readability Checker](https://sarvkit.com/TextKit/readability-checker/) · [Text to Slug](https://sarvkit.com/TextKit/text-to-slug/) · [Text to Braille Translator](https://sarvkit.com/TextKit/braille-translator/) · [Bionic Reading Generator](https://sarvkit.com/TextKit/bionic-reading/) · [Text to Handwriting](https://sarvkit.com/TextKit/text-to-handwriting/)
 
 ---
 
